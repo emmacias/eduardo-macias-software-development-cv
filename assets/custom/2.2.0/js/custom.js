@@ -87,7 +87,7 @@
         /** Ajax page load settings **/
         (function () {
 
-            if (ajaxLoadingEnabled()) {
+            /*if (ajaxLoadingEnabled()) {
                 $(document).pjax('a', '.content-wrap', {fragment: '.content-wrap', scrollTo: false});
 
                 $(document).on('pjax:click', function (event) {
@@ -111,7 +111,7 @@
                         .velocity({ opacity: 0 }, { duration: 0 })
                         .velocity({ opacity: 1 }, { duration: 300, easing: [ 0, 1, 1, 0 ] });
                 });
-            }
+            }*/
 
         })();
     });
