@@ -39,5 +39,10 @@
   background: url("../../images/layouts/samuel/timeline/05.jpg");
   background-position: center;
   background-size: cover; }
+  
+.timeline-samuel-06 {
+  background: url("../../images/layouts/samuel/timeline/06.png");
+  background-position: center;
+  background-size: cover; }
 
 /*# sourceMappingURL=samuel.css.map */
